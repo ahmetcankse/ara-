@@ -14,7 +14,7 @@
 #pragma pack(push, 1)
 uint8_t RemoteXY_CONF[] = {
   31,31,31,31,3,1,1,3,1,3,1,3,1,3,31,31,31,31,31,3
-331,31,13,1,133,1,13,3,13,13,3,31,3,131,3,13,3,31,31 //bu kısmı kendi remotxy kodunuza göre değiştireceksiniz ben o yüzden memleket plakamı yazıyorum
+331,31,13,1,133,1,13,3,13,13,3,31,3,131,3,13,3,31,31 //bu kısmı kendi remotexy kodunuza göre değiştireceksiniz ben o yüzden memleket plakamı yazıyorum
 13,133,31,3,13,33,113,3,13,3,113,3,1,313,13,13,3,31,3
 131,13,13,1313,13,13,13,13,31,33113,,313,13,31,31,
 };
